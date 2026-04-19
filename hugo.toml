@@ -1,0 +1,7 @@
+baseURL = "http://localhost"
+languageCode = "en-us"
+title = "What Can't Get To What"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "Howdy 🤖", Content = "Welcome to my corner of the internet."}

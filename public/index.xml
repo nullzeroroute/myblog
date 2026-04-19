@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>What Can&#39;t Get To What</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on What Can&#39;t Get To What</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2026 12:16:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Apr 2026 12:16:22 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&amp;hellip;&lt;/h1&gt;
+&lt;h2 id=&#34;hello-internet&#34;&gt;Hello internet&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m just someone that wanted to learn more stuff, so I decided to make a site about &lt;strong&gt;what can&amp;rsquo;t get to what&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
