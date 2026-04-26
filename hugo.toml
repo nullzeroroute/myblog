@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://blog.whatcantgettowhat.net"
 languageCode = "en-us"
 title = "What Can't Get To What"
 theme = "PaperMod"
