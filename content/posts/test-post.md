@@ -1,7 +1,7 @@
 +++
 date = '2026-04-26T16:41:57-04:00'
 draft = false
-title = 'Network Troubleshooting - The Basics'
+title = 'Client Network Troubleshooting - The Basics'
 +++
 Want to report a problem to your network support staff?  First ask yourself ***"what can't get to what?"*** then answer to yourself!  
 

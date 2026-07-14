@@ -6,8 +6,49 @@
     <description>Recent content in Posts on What Can&#39;t Get To What</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:16:22 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:49:23 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Client Network Troubleshooting - Advanced</title>
+      <link>http://localhost:1313/posts/network_troubleshooting-info_gathering-2/</link>
+      <pubDate>Tue, 14 Jul 2026 14:49:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/network_troubleshooting-info_gathering-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Problem Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When did the issue first start?
+&lt;ul&gt;
+&lt;li&gt;Please include the date, time, and time zone if known.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When did the issue last occur?
+&lt;ul&gt;
+&lt;li&gt;Please include the date, time, and time zone if known.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Is the issue happening right now?&lt;/li&gt;
+&lt;li&gt;Can the issue be reproduced?
+&lt;ul&gt;
+&lt;li&gt;If yes, what steps cause the problem?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What error message, status code, or symptom is being observed?
+&lt;ul&gt;
+&lt;li&gt;Screenshots are helpful if available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Is the problem occurring at a certain step of the transaction process, if so which step?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Scope and Impact&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Network Troubleshooting - The Basics</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 26 Apr 2026 16:41:57 -0400</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;Want to report a problem to your network support staff?  First ask yourself &lt;em&gt;&lt;strong&gt;&amp;ldquo;what can&amp;rsquo;t get to what?&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; then answer to yourself!&lt;/p&gt;
+&lt;p&gt;If you want, say this out loud so people around you can also begin to learn network troubleshooting skills.&lt;/p&gt;
+&lt;p&gt;You have already answered the first question that the network engineer will ask you when you tell them something isn&amp;rsquo;t working!  Repeat after me&amp;hellip; &lt;em&gt;&amp;ldquo;what can&amp;rsquo;t get to what?&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
@@ -16,6 +57,38 @@
       <description>&lt;h1 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&amp;hellip;&lt;/h1&gt;
 &lt;h2 id=&#34;hello-internet&#34;&gt;Hello internet&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m just someone that wanted to learn more stuff, so I decided to make a site about &lt;strong&gt;what can&amp;rsquo;t get to what&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/network_troubleshooting-info_gathering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/network_troubleshooting-info_gathering/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Problem Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When did the issue first start?
+&lt;ul&gt;
+&lt;li&gt;Please include the date, time, and time zone if known.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When did the issue last occur?
+&lt;ul&gt;
+&lt;li&gt;Please include the date, time, and time zone if known.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Is the issue happening right now?&lt;/li&gt;
+&lt;li&gt;Can the issue be reproduced?
+&lt;ul&gt;
+&lt;li&gt;If yes, what steps cause the problem?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What error message, status code, or symptom is being observed?
+&lt;ul&gt;
+&lt;li&gt;Screenshots are helpful if available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Is the problem occurring at a certain step of the transaction process, if so which step?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Scope and Impact&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
