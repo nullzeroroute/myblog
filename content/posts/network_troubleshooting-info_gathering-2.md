@@ -35,7 +35,7 @@ title = 'Client Network Troubleshooting - Advanced'
 2. Which destination hostnames (FQDNs) and TCP/UDP ports is the client system attempting to connect to?  
    * Examples: [somewebsite-1.com](http://somewebsite-1.com), [someothersite.com](http://someothersite.com), TCP port 443/HTTPS  
 3. Can the affected system successfully resolve the destination hostname(s)?  
-* If possible, provide the resolved IP address(es).  
+   * If possible, provide the resolved IP address(es).  
 4. What public Internet source IP address(es) are being used?  
    * If known, please include how the address(es) were verified.  
 5. If more than one Internet connection or ISP is available, does the issue occur on all of them?
@@ -44,7 +44,7 @@ title = 'Client Network Troubleshooting - Advanced'
 **Diagnostic Data**
 
 1. Can client firewall, proxy, WAF, or security appliance logs be provided that show the failed connection attempts?  
-2. Can a packet capture be provided showing the connection between the client system internet IP address and the destination destination?  
+2. Can a packet capture be provided showing the connection between the client system internet IP address and the destination IP?  
    * Preferred formats: .pcap or .pcapng  
 3. If available, please provide timestamps from the packet capture, logs, or application errors that correspond to the issue.
 
@@ -55,6 +55,6 @@ title = 'Client Network Troubleshooting - Advanced'
 2. Is this issue occuring continuously, or only at certain times of day?  
 3. Do any systems successfully connect to the same destination service, while others fail?  
 4. Can you provide a sample transaction ID, request ID, or timestamp (date and timezone) of a failed attempt?  
-5. Is there someone from the client IT or Networking team that is available to discuss the problem with the destination support team?
+5. Is there someone from the client IT or Networking team that is available to discuss the problem with the destination IP support team?
 
    
